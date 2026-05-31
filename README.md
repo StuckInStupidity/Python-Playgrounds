@@ -1,5 +1,5 @@
 # Childhood python playgrounds discovery
-Run these scripts in a cmd using ./name.py for a better experience
+Run these scripts in a terminal for a better experience
 
 ## ⚙️ Notes :
 ### Project_ADN : For highschoolers or above with interest in biocomputation
