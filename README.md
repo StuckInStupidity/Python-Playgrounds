@@ -1,5 +1,6 @@
 # Childhood python playgrounds discovery
 Run these scripts in a terminal for a better experience
+
 Teach python to younger children in your school club with these
 
 ## ⚙️ Notes :
